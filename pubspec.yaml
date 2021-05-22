@@ -1,0 +1,7 @@
+name: stanalysis
+version: 0.0.1
+description: >-
+  Static analyzer settings to keep a code base maintainable.
+
+environment:
+  sdk: ">=2.12.0-0 <3.0.0"
