@@ -1,6 +1,6 @@
 # Stanalysis
 
-This package provides Dart linter rules that help to keep a code base maintainable. For more information, see the [complete list of options](lib/analysis_options.yaml).
+This package provides Dart linter rules that help to keep a codebase maintainable. For more information, see the [complete list of options](lib/analysis_options.yaml).
 
 ## Usage
 
