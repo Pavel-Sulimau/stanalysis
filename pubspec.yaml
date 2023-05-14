@@ -4,4 +4,4 @@ description: Static analyzer settings to keep a codebase Dart code maintainable.
 repository: https://github.com/Pavel-Sulimau/stanalysis
 
 environment:
-  sdk: ">=2.18.0 <3.0.0"
+  sdk: ">=2.18.0 <4.0.0"
