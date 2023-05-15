@@ -1,6 +1,6 @@
 name: stanalysis
 version: 1.0.0
-description: Static analyzer settings to keep a codebase Dart code maintainable.
+description: Opinionated static analyzer rule set to keep a Dart codebase maintainable.
 repository: https://github.com/Pavel-Sulimau/stanalysis
 
 environment:
